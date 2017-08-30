@@ -15,7 +15,8 @@
     "camelcase-keys": "^4.1.0",
     "debug": "^2.6.8",
     "generator-lb1": "^1.0.5",
-    "minimist": "^1.2.0"
+    "minimist": "^1.2.0",
+    "spellchecker": "^3.4.1"
   },
   "repository": {
     "type": "git",
