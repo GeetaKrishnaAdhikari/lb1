@@ -1,6 +1,6 @@
 {
   "name": "lb1",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Trying to copy loopback generator",
   "main": "index.js",
   "scripts": {
